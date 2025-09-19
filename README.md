@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3F8EFC&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Hamza+Abo-Farah;Computer+Systems+Engineer;Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3F8EFC&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Hamza+Abo-Farah;Computer+Engineer;Full+Stack+Developer)](https://git.io/typing-svg)
 
 <h3 align="center">A passionate Full Stack Developer from Palestine</h3>
 
